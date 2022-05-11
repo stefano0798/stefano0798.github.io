@@ -2355,11 +2355,13 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			width: 100%;
+			width: 30%;
+			height: 30%;
 		}
 
 			.image.main img {
-				width: 100%;
+				width: 30%;
+				height: 30%;
 			}
 
 			@media screen and (max-width: 736px) {
