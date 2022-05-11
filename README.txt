@@ -10,4 +10,4 @@ Credits:
 
 	AJ: aj@lkn.io | @ajlkn
 	
-	Picture in the "Projects" tile by Ben Kolde on unsplash.com
+	Picture in the "Projects" tile by Ben Kolde (@benkolde) on unsplash.com
