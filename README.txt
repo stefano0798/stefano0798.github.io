@@ -9,3 +9,5 @@ Credits:
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 	AJ: aj@lkn.io | @ajlkn
+	
+	Picture in the "Projects" tile by Ben Kolde on unsplash.com
