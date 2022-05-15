@@ -2324,17 +2324,23 @@ input, select, textarea {
 			display: block;
 		}
 
-		.image.left, .image.right {
+		.image.left, .image.right, .image.center {
 			max-width: 40%;
 		}
 
-			.image.left img, .image.right img {
+			.image.left img, .image.right img, .image.center img {
 				width: 100%;
 			}
 
 		.image.left {
 			float: left;
 			padding: 0 1.5em 1em 0;
+			top: 0.25em;
+		}
+		
+		.image.center {
+			float: center;
+			padding: 0 0em 0em 0.25cm;
 			top: 0.25em;
 		}
 
