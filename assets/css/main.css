@@ -2375,14 +2375,14 @@ input, select, textarea {
 			@media screen and (max-width: 736px) {
 
 				.image.main {
-					width: 60%;
-					height: 60%;
+					max-width: 25%;
+					max-height: 25%;
 					margin: 0 0 2em 0;
 				}
 				
 				.image.left, .image.center, .image.right {
-					width: 40%;
-					height: 40%;
+					max-width: 25%;
+					max-height: 25%;
 					margin: 0 0 0em 0;
 				}
 
